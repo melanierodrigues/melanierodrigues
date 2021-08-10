@@ -24,6 +24,8 @@
   
 
 ![](https://komarev.com/ghpvc/?username=melanierodrigues&style=flat&color=dc143c)
+ 
+ ![Snake animation](https://github.com/melanierodrigues/melanierodrigues/blob/output/github-contribution-grid-snake.svg)
 
 
 

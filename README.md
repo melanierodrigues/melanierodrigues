@@ -23,13 +23,13 @@
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/melanierodrigues)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/m%C3%A9lanie-rodrigues-a651b9106//)  
   
 
-![](https://komarev.com/ghpvc/?username=melanierodrigues&style=flat&color=dc143c)
  
  ![Snake animation](https://github.com/melanierodrigues/melanierodrigues/blob/output/github-contribution-grid-snake.svg)
 
 
 
 <!-- onedark vue calm
+![](https://komarev.com/ghpvc/?username=melanierodrigues&style=flat&color=dc143c)
 **melanierodrigues/melanierodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

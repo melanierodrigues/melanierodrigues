@@ -1,3 +1,5 @@
+![GIF](https://i.ibb.co/HGCXH2C/GIF.gif)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=505050&size=16&center=true&vCenter=true&width=250&height=20&lines=I'm+M%C3%A9lanie+and+I'm+learning;to+be+a+Front-End+developer.)](https://git.io/typing-svg)
 
 ![#505050FF](https://via.placeholder.com/4/505050FF/000000?text=+) ![#505050FF](https://via.placeholder.com/4/505050FF/000000?text=+) ![#505050FF](https://via.placeholder.com/4/505050FF/000000?text=+) ![#505050FF](https://via.placeholder.com/4/505050FF/000000?text=+) ![#505050FF](https://via.placeholder.com/4/505050FF/000000?text=+) ![#505050FF](https://via.placeholder.com/4/505050FF/000000?text=+) ![#505050FF](https://via.placeholder.com/4/505050FF/000000?text=+) ![#505050FF](https://via.placeholder.com/4/505050FF/000000?text=+) ![#505050FF](https://via.placeholder.com/4/505050FF/000000?text=+) ![#505050FF](https://via.placeholder.com/4/505050FF/000000?text=+) ![#505050FF](https://via.placeholder.com/4/505050FF/000000?text=+) ![#505050FF](https://via.placeholder.com/4/505050FF/000000?text=+) ![#505050FF](https://via.placeholder.com/4/505050FF/000000?text=+) ![#505050FF](https://via.placeholder.com/4/505050FF/000000?text=+) ![#505050FF](https://via.placeholder.com/4/505050FF/000000?text=+) ![#505050FF](https://via.placeholder.com/4/505050FF/000000?text=+) ![#505050FF](https://via.placeholder.com/4/505050FF/000000?text=+) ![#505050FF](https://via.placeholder.com/4/505050FF/000000?text=+) ![#505050FF](https://via.placeholder.com/4/505050FF/000000?text=+) ![#505050FF](https://via.placeholder.com/4/505050FF/000000?text=+) ![#505050FF](https://via.placeholder.com/4/505050FF/000000?text=+) ![#505050FF](https://via.placeholder.com/4/505050FF/000000?text=+) ![#505050FF](https://via.placeholder.com/4/505050FF/000000?text=+) ![#505050FF](https://via.placeholder.com/4/505050FF/000000?text=+) ![#505050FF](https://via.placeholder.com/4/505050FF/000000?text=+) 
@@ -24,6 +26,12 @@
 
  
  ![Snake animation](https://github.com/melanierodrigues/melanierodrigues/blob/output/github-contribution-grid-snake.svg)
+ 
+´´´
+ style{
+ background-color: red;
+ }
+ ´´´
 
 
 

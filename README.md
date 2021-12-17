@@ -14,7 +14,7 @@
  
  <h3>Hello World! &#x1F49C; </h3>
  
- <h5>I’m currently working on my portfolio.</h5>
+ <h5>I'm currently looking for work!</h5>
 </div>
 
 <div align="center">

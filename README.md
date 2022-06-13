@@ -12,7 +12,7 @@
  
  <h3>Hello World! &#x1F49C; </h3>
  
- <h5>I'm currently looking for work!</h5>
+ <h5>Currently I'm working as a Frontend Developer!</h5>
 </div>
 
 <div align="center">
